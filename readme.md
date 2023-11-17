@@ -14,7 +14,9 @@ Awesome list of fedora security projects!
 
 <!-- image -->
 
-![Fedora Logo](./fedora.svg)
+<a href="https://fedoraproject.org/" target="_blank" rel="noopener noreferrer">
+  <img width="200" src="fedora.png" />
+</a>
 
 <!-- description -->
 
