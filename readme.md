@@ -10,7 +10,7 @@
 
 <!-- subtitle -->
 
-Awesome list of fedora security projects! 
+Awesome Fedora Security: A curated collection of projects, featuring hardening scripts, configurations, spins, labs, and environments designed to secure and fortify the Fedora distribution.
 
 <!-- image -->
 
