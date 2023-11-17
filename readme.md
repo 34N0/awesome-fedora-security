@@ -1,5 +1,10 @@
 <div align="center">
 
+```
+As of now this list is empty. In the current phase, projects are being asked to if they want to get featured.
+Do you maintain a project which you want to be featured in this list? Create an issue! :-)
+```
+
 <!-- title -->
 
 <!--lint ignore no-dead-urls-->
