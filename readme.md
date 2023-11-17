@@ -24,25 +24,23 @@ Awesome list of fedora security projects!
 
 </div>
 
+<!--
+
 <!-- TOC -->
 
-## Contents
+<!--## Contents-->
 
-- [Hardening Scripts](#system-hardening-scripts)
-- [Follow](#follow)
+<!--- [Follow](#follow)-->
 
 <!-- CONTENT -->
 
-## Hardening Scripts
-
-- [Apple](https://apple.com) - Apple as a placeholder.
-
-## Follow
+<!--## Follow-->
 
 <!-- list people worth following on social sites (Twitter, LinkedIn, GitHub, YouTube etc.) -->
 
-Who else should we be following!?
+<!--Who else should we be following!?-->
 
-## Contributing
+<!--## Contributing-->
 
-[Contributions of any kind welcome, just follow the guidelines](contributing.md)!
+<!--[Contributions of any kind welcome, just follow the guidelines](contributing.md)!--<>
+
