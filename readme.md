@@ -29,8 +29,6 @@ Awesome Fedora Security: A curated collection of projects, featuring hardening s
 
 </div>
 
-<!--
-
 <!-- TOC -->
 
 <!--## Contents-->
@@ -38,6 +36,42 @@ Awesome Fedora Security: A curated collection of projects, featuring hardening s
 <!--- [Follow](#follow)-->
 
 <!-- CONTENT -->
+
+## Automation
+
+- [Fedora Hardened Script](https://github.com/qoijjj/fedora-hardened) - This is a script that hardens the default fedora installation significantly.
+
+- [Ansible Role RHEL9 CIS](https://github.com/ansible-lockdown/RHEL9-CIS) - Automate CIS benchmark compliance with Ansible
+
+- [SolidCore Scripts](https://github.com/solidc0re/solidcore-scripts) - This project aims to protect immutable Fedora variants against a variety of attack vectors with a collection of scripts.
+
+## Audit
+
+- [RHEL9 CIS Audit](https://github.com/ansible-lockdown/RHEL9-CIS-Audit) - Ability to audit a system using a lightweight binary to check the current state.
+
+## System Components
+
+### Hardened Malloc
+
+"Hardened Malloc" is a security-focused general purpose memory allocator providing the malloc API along with various extensions. It provides substantial hardening against heapcorruption vulnerabilities.
+
+- [Fedora Extras](https://github.com/qoijjj/fedora-extras) ([COPR Package](https://copr.fedorainfracloud.org/coprs/qoijjj/hardened_malloc/))
+
+- [RPM Hardened Malloc](https://github.com/solidc0re/rpm-hardened-malloc)
+
+### Kernel Hardened
+
+The hardened Linux kernel; originally from the Arch Linux repository and repackaged for Fedora Linux.
+
+- [Kernel Hardened] (https://github.com/d4rklynk/kernel-hardened) ([COPR Package](https://copr.fedorainfracloud.org/coprs/samsepi0l/HardHatOS/)) - This repository tracks the hardened Linux kernel from the Arch Linux repositories and packages ist for Fedora Linux.
+
+## Images
+
+- [Hardened Ublue Images](https://github.com/qoijjj/hardened-images) - This repo takes the uBlue starting point and selectively applies minimal hardening so as to provide images that are partially hardened without sacrificing usability for most use cases.
+
+- [Fedora Security Lab](https://github.com/fabaff/security-lab) - The Fedora Security Lab (FSL) provides a safe test environment to work on security auditing, forensics, system rescue and teaching security testing methodologies in universities and other organizations. This repository is a copy of the original development. 
+
+<!-- END CONTENT -->
 
 <!--## Follow-->
 
