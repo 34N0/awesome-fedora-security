@@ -58,7 +58,7 @@ Awesome Fedora Security: A curated collection of projects, featuring hardening s
 
 The hardened Linux kernel; originally from the Arch Linux repository and repackaged for Fedora Linux.
 
-- [Kernel Hardened] (https://github.com/d4rklynk/kernel-hardened) ([COPR Package](https://copr.fedorainfracloud.org/coprs/samsepi0l/HardHatOS/)) - This repository tracks the hardened Linux kernel from the Arch Linux repositories and packages ist for Fedora Linux.
+- [Kernel Hardened](https://github.com/d4rklynk/kernel-hardened) ([COPR Package](https://copr.fedorainfracloud.org/coprs/samsepi0l/HardHatOS/)) - This repository tracks the hardened Linux kernel from the Arch Linux repositories and packages ist for Fedora Linux.
 
 ## Images
 
