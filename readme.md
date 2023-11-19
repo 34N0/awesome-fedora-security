@@ -1,10 +1,5 @@
 <div align="center">
 
-```
-As of now this list is empty. In the current phase, projects are being asked to if they want to get featured.
-Do you maintain a project which you want to be featured in this list? Create an issue! :-)
-```
-
 <!-- title -->
 
 <!--lint ignore no-dead-urls-->
@@ -20,12 +15,12 @@ Awesome Fedora Security: A curated collection of projects, featuring hardening s
 <!-- image -->
 
 <a href="https://fedoraproject.org/" target="_blank" rel="noopener noreferrer">
-  <img width="200" src="fedora.png" />
+  <img width="150" src="fedora.png" />
 </a>
 
 <!-- description -->
 
-[Fedora](https://fedoraproject.org/) is a user-friendly Linux distribution known for its commitment to open-source principles, regular updates, and emphasis on security. It serves as a testing ground for innovative technologies and offers a choice of desktop environments, making it suitable for a variety of users, including developers.
+[Fedora](https://fedoraproject.org/) is a user-friendly Linux distribution known for its commitment to open-source principles, regular updates, and emphasis on security.
 
 </div>
 
