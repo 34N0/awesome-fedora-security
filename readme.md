@@ -26,7 +26,12 @@ Awesome Fedora Security: A curated collection of projects, featuring hardening s
 
 <!-- TOC -->
 
-<!--## Contents-->
+## Contents
+
+- [Automation](#automation)
+- [Audit](#audit)
+- [System Components](#system-components)
+- [Images](#images)
 
 <!--- [Follow](#follow)-->
 
