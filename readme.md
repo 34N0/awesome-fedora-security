@@ -67,7 +67,7 @@ The hardened Linux kernel; originally from the Arch Linux repository and repacka
 
 ## Images
 
-- [Hardened Ublue Images](https://github.com/qoijjj/hardened-images) - This repo takes the uBlue starting point and selectively applies minimal hardening so as to provide images that are partially hardened without sacrificing usability for most use cases.
+- [Secureblue (Hardened Ublue Images)](https://github.com/secureblue/secureblue) - This repo takes the uBlue starting point and selectively applies minimal hardening so as to provide images that are partially hardened without sacrificing usability for most use cases.
 
 - [Fedora Security Lab](https://github.com/fabaff/security-lab) - The Fedora Security Lab (FSL) provides a safe test environment to work on security auditing, forensics, system rescue and teaching security testing methodologies in universities and other organizations. This repository is a copy of the original development. 
 
