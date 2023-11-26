@@ -51,6 +51,8 @@ Awesome Fedora Security: A curated collection of projects, featuring hardening s
 
 ## System Components
 
+- [Bubblewrap SUID](https://github.com/34N0/bubblewrap-suid-rpm) - This repository contains the .spec file for bundling a setuid variant of Bubblewrap as an RPM. This allows using flatpaks on immutable OSTree distributions with unprivileged_user_namespaces set to 0.
+
 ### Hardened Malloc
 
 "Hardened Malloc" is a security-focused general purpose memory allocator providing the malloc API along with various extensions. It provides substantial hardening against heapcorruption vulnerabilities.
