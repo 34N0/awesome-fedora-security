@@ -70,6 +70,10 @@ The hardened Linux kernel; originally from the Arch Linux repository and repacka
 
 - [Kernel Hardened](https://github.com/d4rklynk/kernel-hardened) ([COPR Package](https://copr.fedorainfracloud.org/coprs/samsepi0l/HardHatOS/)) - This repository tracks the hardened Linux kernel from the Arch Linux repositories and packages ist for Fedora Linux.
 
+### SELinux
+
+- [SELinux Policy](https://github.com/fedora-selinux/selinux-policy) - selinux-policy for Fedora is a large patch off the mainline 
+
 ## Automation
 
 - [Fedora Hardened Script](https://github.com/qoijjj/fedora-hardened) - This is a script that hardens the default fedora installation significantly.
