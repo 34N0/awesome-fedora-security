@@ -28,26 +28,20 @@ Awesome Fedora Security: A curated collection of projects, featuring hardening s
 
 ## Contents
 
-- [Automation](#automation)
-- [Audit](#audit)
-- [System Components](#system-components)
 - [Images](#images)
+- [System Components](#system-components)
+- [Audit](#audit)
+- [Automation](#automation)
 
 <!--- [Follow](#follow)-->
 
 <!-- CONTENT -->
 
-## Automation
+## Images
 
-- [Fedora Hardened Script](https://github.com/qoijjj/fedora-hardened) - This is a script that hardens the default fedora installation significantly.
+- [Secureblue (Hardened Ublue Images)](https://github.com/secureblue/secureblue) - This repo takes the uBlue starting point and selectively applies minimal hardening so as to provide images that are partially hardened without sacrificing usability for most use cases.
 
-- [Ansible Role RHEL9 CIS](https://github.com/ansible-lockdown/RHEL9-CIS) - Automate CIS benchmark compliance with Ansible
-
-- [SolidCore Scripts](https://github.com/solidc0re/solidcore-scripts) - This project aims to protect immutable Fedora variants against a variety of attack vectors with a collection of scripts.
-
-## Audit
-
-- [RHEL9 CIS Audit](https://github.com/ansible-lockdown/RHEL9-CIS-Audit) - Ability to audit a system using a lightweight binary to check the current state.
+- [Fedora Security Lab](https://github.com/fabaff/security-lab) - The Fedora Security Lab (FSL) provides a safe test environment to work on security auditing, forensics, system rescue and teaching security testing methodologies in universities and other organizations. This repository is a copy of the original development. 
 
 ## System Components
 
@@ -75,11 +69,17 @@ The hardened Linux kernel; originally from the Arch Linux repository and repacka
 
 - [Kernel Hardened](https://github.com/d4rklynk/kernel-hardened) ([COPR Package](https://copr.fedorainfracloud.org/coprs/samsepi0l/HardHatOS/)) - This repository tracks the hardened Linux kernel from the Arch Linux repositories and packages ist for Fedora Linux.
 
-## Images
+## Automation
 
-- [Secureblue (Hardened Ublue Images)](https://github.com/secureblue/secureblue) - This repo takes the uBlue starting point and selectively applies minimal hardening so as to provide images that are partially hardened without sacrificing usability for most use cases.
+- [Fedora Hardened Script](https://github.com/qoijjj/fedora-hardened) - This is a script that hardens the default fedora installation significantly.
 
-- [Fedora Security Lab](https://github.com/fabaff/security-lab) - The Fedora Security Lab (FSL) provides a safe test environment to work on security auditing, forensics, system rescue and teaching security testing methodologies in universities and other organizations. This repository is a copy of the original development. 
+- [Ansible Role RHEL9 CIS](https://github.com/ansible-lockdown/RHEL9-CIS) - Automate CIS benchmark compliance with Ansible
+
+- [SolidCore Scripts](https://github.com/solidc0re/solidcore-scripts) - This project aims to protect immutable Fedora variants against a variety of attack vectors with a collection of scripts.
+
+## Audit
+
+- [RHEL9 CIS Audit](https://github.com/ansible-lockdown/RHEL9-CIS-Audit) - Ability to audit a system using a lightweight binary to check the current state.
 
 <!-- END CONTENT -->
 
@@ -91,5 +91,4 @@ The hardened Linux kernel; originally from the Arch Linux repository and repacka
 
 <!--## Contributing-->
 
-<!--[Contributions of any kind welcome, just follow the guidelines](contributing.md)!--<>
-
+<!--[Contributions of any kind welcome, just follow the guidelines](contributing.md)!-->
