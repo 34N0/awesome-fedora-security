@@ -57,9 +57,9 @@ Awesome Fedora Security: A curated collection of projects, featuring hardening s
 
 "Hardened Malloc" is a security-focused general purpose memory allocator providing the malloc API along with various extensions. It provides substantial hardening against heapcorruption vulnerabilities.
 
-- [Fedora Extras](https://github.com/qoijjj/fedora-extras) ([COPR Package](https://copr.fedorainfracloud.org/coprs/qoijjj/hardened_malloc/))
+- [qoijjj/fedora-extras](https://github.com/qoijjj/fedora-extras) ([COPR Package](https://copr.fedorainfracloud.org/coprs/qoijjj/hardened_malloc/))
 
-- [RPM Hardened Malloc](https://github.com/solidc0re/rpm-hardened-malloc)
+- [divestedcg/rpm-hardened_malloc](https://github.com/divestedcg/rpm-hardened_malloc) 
 
 ### Kernel Hardened
 
