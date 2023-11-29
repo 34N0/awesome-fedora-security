@@ -51,7 +51,15 @@ Awesome Fedora Security: A curated collection of projects, featuring hardening s
 
 ## System Components
 
+### Sandboxing
+
+- [Bubblewrap](https://github.com/containers/bubblewrap) - Low-level unprivileged sandboxing tool used by Flatpak and similar projects 
+
 - [Bubblewrap SUID](https://github.com/34N0/bubblewrap-suid-rpm) - This repository contains the .spec file for bundling a setuid variant of Bubblewrap as an RPM. This allows using flatpaks on immutable OSTree distributions with unprivileged_user_namespaces set to 0.
+
+- [Bubblejail](https://github.com/igo95862/bubblejail) - Bubblejail is a bubblewrap-based alternative to Firejail.
+
+- [🡽 crablock](https://codeberg.org/crabjail/crablock) - Crablock is written entirely in (un)safe Rust (it links against libc and libseccomp). And features bleeding edge Linux security features like Landlock or MDWE_REFUSE_EXEC_GAIN.
 
 ### Hardened Malloc
 
