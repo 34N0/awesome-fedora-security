@@ -32,6 +32,7 @@ Awesome Fedora Security: A curated collection of projects, featuring hardening s
 - [System Components](#system-components)
 - [Audit](#audit)
 - [Automation](#automation)
+- [Contributing](#contributing)
 
 <!--- [Follow](#follow)-->
 
@@ -89,6 +90,6 @@ The hardened Linux kernel; originally from the Arch Linux repository and repacka
 
 <!--Who else should we be following!?-->
 
-<!--## Contributing-->
+## Contributing
 
-<!--[Contributions of any kind welcome, just follow the guidelines](contributing.md)!-->
+[Contributions of any kind welcome, just follow the guidelines](contributing.md)
